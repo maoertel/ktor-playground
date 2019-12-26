@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be2b65a8-324c-4b88-b12a-a7f37c9ef59d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VVKFhVfVlrozvMpDboBCd4rFSr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/LambdaWorld19/workshops/mu-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/LambdaWorld19/workshops/zio-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/cats/catalysts-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/cats/cats-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/coursera/course_two/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/scala-course-three/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/scala-reactive-programming-edx/actorbintree" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/scala-reactive-programming-edx/async" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/scala-user-group-kata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Kurse/Scala/zio/zio-intro-game" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/backendDouble/sphere-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/feature-metrics-reporter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/graphql_scala_sangria" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/http4s-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/sphere-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/sphere-backend/product/api/features-cornichon" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../unfiltered/justplayin" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be2b65a8-324c-4b88-b12a-a7f37c9ef59d" name="Default Changelist" comment="" />
+      <created>1577332719221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577332719221</updated>
+    </task>
+    <servers />
+  </component>
+</project>
